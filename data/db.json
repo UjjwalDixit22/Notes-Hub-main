@@ -1,0 +1,67 @@
+{
+  "notes": [
+    {
+      "title": "My First Note!",
+      "body": "Hello World!",
+      "category": "Work",
+      "date": "20/09/2023",
+      "id": "1"
+    },
+    {
+      "title": "Work Work!!",
+      "body": "Hey goto uni!!",
+      "category": "Work",
+      "date": "21/09/2023",
+      "id": "7"
+    },
+    {
+      "title": "Notes Hub!",
+      "body": "Notes Hub is a React app that allows you to create, edit, and delete notes with ease. Notes Hub is a simple and elegant solution for managing your notes in one place.",
+      "category": "Other",
+      "date": "21/09/2023",
+      "id": "8"
+    },
+    {
+      "title": "todo2",
+      "body": "something is wrong with default value in select category",
+      "category": "Other",
+      "date": "21/09/2023",
+      "id": "12"
+    },
+    {
+      "id": "0b02",
+      "title": "Hello",
+      "body": "everyone",
+      "category": "Work",
+      "date": "31/08/2024"
+    },
+    {
+      "id": "0563",
+      "title": "Cipherschools",
+      "body": "Summer internship training",
+      "category": "Educational",
+      "date": "31/08/2024"
+    },
+    {
+      "id": "318a",
+      "title": "Helo World",
+      "body": "How are you",
+      "category": "Educational",
+      "date": "30/09/2024"
+    },
+    {
+      "id": "6d9f",
+      "title": "Hello my name is Ujjwal",
+      "body": "hello",
+      "category": "Educational",
+      "date": "02/10/2024"
+    },
+    {
+      "id": "d12b",
+      "title": "Regarding CA🥶",
+      "body": "This is CA3!",
+      "category": "Educational",
+      "date": "16/11/2024"
+    }
+  ]
+}
